@@ -1,0 +1,20 @@
+.heading,.align,.embedded,.last{
+    display: block;
+    text-align: center;
+}
+p{
+    width: 246px;
+    display: block;
+    text-align: left;
+}
+.align{
+    width: 246px;
+}
+
+.text{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border-bottom: 3px solid rgba(0, 0, 0, 0.7);
+}
